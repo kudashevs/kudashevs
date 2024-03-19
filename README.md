@@ -1,4 +1,4 @@
-### Hi 👋, I'm Sergey Kudashev
+### Hi there 👋
 
 <ul dir="auto">
 <li> ⚙ I'm a web developer with a wide range of interests</li>
