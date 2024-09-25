@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <ul dir="auto">
-<li> ⚙ I'm a web developer with a wide range of interests</li>
+<li> ⚙ I'm a full-stack developer with a wide range of interests</li>
 <li> 🌱 I’m currently learning OOAD, DDD and best programming practices</li>
 <li> ⌨ I’m looking to practice pair programming and discuss best practices</li>
 <li> 💬 Ping me if you are up to practice pair programming or discuss something</li>
