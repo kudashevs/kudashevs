@@ -8,5 +8,5 @@
 <li> 📫 How to reach me: <a href="https://twitter.com/SergeKudashev/">twitter</a> or <a href="mailto:kudashevs@gmail.com">email me</a></li>
 </ul>
 <p>
-⚡ Fun fact: It's OK to be wrong, especially if you can learn from your mistakes.
+⚡ Fun fact: It's OK to be wrong, especially if you can learn from your own mistakes.
 </p>
